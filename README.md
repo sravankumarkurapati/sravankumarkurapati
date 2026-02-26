@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sravankumarkurapati&label=Profile%20views&color=0e75b6&style=flat" alt="sravankumarkurapati" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sravankumarkurapati" alt="sravankumarkurapati" /></a> </p>
+<p align="left"> <a href="https://github.com/sravankumarkurapati"><img src="https://github-profile-trophy.vercel.app/?username=sravankumarkurapati" alt="sravankumarkurapati" /></a> </p>
 
 - 🔭 I’m currently working on **Backend Projects, Full Stack Projects and AI projects**
 
