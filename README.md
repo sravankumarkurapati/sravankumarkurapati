@@ -5,7 +5,7 @@
 
 <!-- <p align="left"> <a href="https://github.com/sravankumarkurapati"><img src="https://github-profile-trophy.vercel.app/?username=sravankumarkurapati" alt="sravankumarkurapati" /></a> </p> -->
 
-- 🔭 I’m currently working on **Backend Projects, Full Stack Projects and AI projects**
+- 🔭 I’m currently working on **Backend Projects, Full Stack Projects and AI/ML projects**
 
 - 📫 How to reach me **kurapati.sr@northeastern.edu**
 
